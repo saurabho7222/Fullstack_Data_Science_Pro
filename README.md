@@ -9,22 +9,22 @@ But that's not all – My repo is just one among many. As you explore the conten
 An Important Message for PW Skills and Ineuron - Data Science Masters and Full Stack Data Science Pro Batch Students , know the importance of colbrative learning, and boost this repo by adding your repo's links in this Readme.
 
 # Skills
-Prompt Enginnering
-LLMs (Large Language Models)
-Python
-Flask
-Data Structure & Algorithms
-Numpy
-Pandas
-Visualization
-Databases
-EDA
-Linear Algebra
-Calculus
-Statistics
-Machine Learning
-Deep learning
-Computer vision
-Natural language processing
-PySpark
-PowerBI
+* Prompt Enginnering
+* LLMs (Large Language Models)
+* Python
+* Flask
+* Data Structure & Algorithms
+* Numpy
+* Pandas
+* Visualization
+* Databases
+* EDA
+* Linear Algebra
+* Calculus
+* Statistics
+* Machine Learning
+* Deep learning
+* Computer vision
+* Natural language processing
+* PySpark
+* PowerBI
